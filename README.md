@@ -121,8 +121,8 @@ The app will be available at `http://localhost:5173` (or the port Vite assigns).
 This repository contains the **MongoDB (MERN)** version of NoteKeeper.
 
 A **PostgreSQL** version of this project is also available, with a live deployment:
-- 🔗 Repository: [Add PostgreSQL repo link here]
-- 🌐 Live Demo: [Add live demo link here]
+- 🔗 Repository: https://github.com/ALI-creator307/NoteKeeper-2.git
+- 🌐 Live Demo: https://notekeeper-woad-iota.vercel.app/
 
 ---
 
